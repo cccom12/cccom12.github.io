@@ -1,0 +1,45 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+    background-color: firebrick;
+}
+
+
+.page-shape{
+    text-align: center;
+    background-color:  white;
+    margin-right: 5%;
+    margin-left: 5%;
+    border: black;
+    border-style: solid;
+    border: size 10px; 
+    border-radius: 20px;
+}
+
+.page-color{
+    background-color: #F7F7F7;
+}
+
+.cccom-img-size{
+    margin-top: 10%;
+    width: 50%;
+    margin-top: 25%;
+}
+
+
+.h1-text{
+    font-size: 50px;
+}
+
+.text-postion{
+    text-align: center;
+    margin-top: 10%;
+}
+.u-c-img{
+    width: 80%;
+    
+
+}
